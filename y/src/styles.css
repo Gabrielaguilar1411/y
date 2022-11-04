@@ -1,0 +1,15 @@
+#contenido{
+    max-width: 200px;
+    width: 90%; 
+   background-color: rgb(21, 156, 235);
+   font-size: 6em Comic;
+   margin:auto; 
+   margin-top:3em; 
+   gap:1.5em;
+   border-radius:10px; 
+   padding:1.5em 2em; 
+   box-shadow:0 5px 10px -5px rgb(0 0 0/30); 
+   text-align:center; 
+   display: grid;
+   }
+ 
